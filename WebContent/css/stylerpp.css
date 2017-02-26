@@ -1,0 +1,14 @@
+         .header{ background-color : darkgreen;} 
+         .textsz{margin-top  : 5%;
+                 color: white;}
+         .EndPanel{
+                       margin-top  : 2%;
+                       margin-left : 30%;
+                       background-color : #006ca7;
+                  }     
+         .center{ margin-left : 25%;}     
+         .justify{margin-left : 13%;}  
+         .subques{margin-left : 5%;}       
+         .fontsz{font-size : 150%;}        
+         .layout{width : 500px;}    
+         .txtjust{text-align: justify}               
